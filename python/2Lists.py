@@ -29,4 +29,5 @@ numbers= []
 for i in range (0,10):
         numbers.append(i)
 print(numbers)  # [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
-print(numbers[5:len(numbers)])  # [0, 1, 2, 3, 4]
+print(numbers[5:len(numbers)])  # [0, 1, 2, 3, 4] 
+print(numbers[5])
